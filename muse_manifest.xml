@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480885452711">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480885578880">
   <folder name="css">
     <file name="site_global.css" crc="426707417"/>
     <file name="master_b-master.css" crc="86501127" ref="article-1:article-4:article-3:article-2"/>
@@ -95,12 +95,12 @@
       <file name="master_b-master.css" crc="71831199" ref="phone>article-4:phone>article-3:phone>article-2:phone>article-1"/>
       <file name="article-4.css" crc="4170209362" ref="phone>article-4"/>
       <file name="articles.css" crc="458210139" ref="phone>articles"/>
-      <file name="index.css" crc="404094789" ref="phone>index"/>
+      <file name="index.css" crc="3875200675" ref="phone>index"/>
       <file name="article-3.css" crc="4229938560" ref="phone>article-3"/>
       <file name="article-2.css" crc="528478757" ref="phone>article-2"/>
       <file name="article-1.css" crc="92823381" ref="phone>article-1"/>
     </folder>
-    <file name="index.html" crc="4079283752" mt="1480885439986" redirect="true"/>
+    <file name="index.html" crc="4177541685" mt="1480885566467" redirect="true"/>
     <file name="articles.html" crc="57718753" mt="1480884229992" redirect="true"/>
     <file name="article-1.html" crc="4141399513" mt="1480883138987" redirect="true"/>
     <file name="article-2.html" crc="92661276" mt="1480883138988" redirect="true"/>
