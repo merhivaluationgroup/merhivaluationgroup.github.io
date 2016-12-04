@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #6BF028;
+	color: #000009;
+	background-color: #CD5AEE;
 }
 
 @-ms-viewport
@@ -61,7 +61,7 @@
 #u1131
 {
 	position: absolute;
-	width: 501px;
+	width: 598px;
 	height: 192px;
 	background-color: transparent;
 }
@@ -74,7 +74,7 @@
 #u1136
 {
 	z-index: 6;
-	width: 501px;
+	width: 598px;
 	height: 192px;
 	border-style: none;
 	border-color: transparent;
@@ -83,16 +83,10 @@
 	position: relative;
 }
 
-#u1136_img
-{
-	margin-top: -14px;
-	margin-bottom: -14px;
-}
-
 #u1172
 {
 	z-index: 8;
-	width: 501px;
+	width: 598px;
 	height: 192px;
 	border-style: none;
 	border-color: transparent;
@@ -104,7 +98,7 @@
 #u1184
 {
 	z-index: 10;
-	width: 501px;
+	width: 598px;
 	height: 192px;
 	border-style: none;
 	border-color: transparent;
@@ -113,17 +107,17 @@
 	position: relative;
 }
 
-#u1136_clip,#u1184_clip
+#u1184_clip
 {
 	overflow: hidden;
-	width: 501px;
+	width: 598px;
 	height: 192px;
 }
 
 #u1184_img
 {
-	margin-left: -11px;
-	margin-right: -10px;
+	margin-top: -14px;
+	margin-bottom: -14px;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -304,7 +298,7 @@
 #u1107
 {
 	z-index: 3;
-	width: 500px;
+	width: 597px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
