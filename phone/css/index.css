@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001E;
-	background-color: #3DB959;
+	color: #0000EC;
+	background-color: #6BF028;
 }
 
 @-ms-viewport
@@ -61,7 +61,7 @@
 #u1131
 {
 	position: absolute;
-	width: 403px;
+	width: 501px;
 	height: 192px;
 	background-color: transparent;
 }
@@ -74,7 +74,7 @@
 #u1136
 {
 	z-index: 6;
-	width: 403px;
+	width: 501px;
 	height: 192px;
 	border-style: none;
 	border-color: transparent;
@@ -83,23 +83,16 @@
 	position: relative;
 }
 
-#u1136_clip
-{
-	overflow: hidden;
-	width: 403px;
-	height: 192px;
-}
-
 #u1136_img
 {
-	margin-left: -17px;
-	margin-right: -17px;
+	margin-top: -14px;
+	margin-bottom: -14px;
 }
 
 #u1172
 {
 	z-index: 8;
-	width: 403px;
+	width: 501px;
 	height: 192px;
 	border-style: none;
 	border-color: transparent;
@@ -111,13 +104,26 @@
 #u1184
 {
 	z-index: 10;
-	width: 403px;
+	width: 501px;
 	height: 192px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
+}
+
+#u1136_clip,#u1184_clip
+{
+	overflow: hidden;
+	width: 501px;
+	height: 192px;
+}
+
+#u1184_img
+{
+	margin-left: -11px;
+	margin-right: -10px;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -298,7 +304,7 @@
 #u1107
 {
 	z-index: 3;
-	width: 402px;
+	width: 500px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -527,7 +533,7 @@
 #u1194
 {
 	z-index: 2;
-	width: 402px;
+	width: 500px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
