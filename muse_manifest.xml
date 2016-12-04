@@ -1,71 +1,63 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480846213894">
-  <folder name="tablet">
-    <folder name="css">
-      <file name="article-2.css" crc="3964970448" ref="tablet>article-2"/>
-      <file name="index.css" crc="3964970448" ref="tablet>index"/>
-      <file name="article-1.css" crc="3964970448" ref="tablet>article-1"/>
-      <file name="article-3.css" crc="3964970448" ref="tablet>article-3"/>
-      <file name="article-4.css" crc="3964970448" ref="tablet>article-4"/>
-      <file name="articles.css" crc="3964970448" ref="tablet>articles"/>
-    </folder>
-    <file name="index.html" crc="283158078" mt="1480843716121" redirect="false"/>
-    <file name="articles.html" crc="276175280" mt="1480843716122" redirect="false"/>
-    <file name="article-1.html" crc="96673361" mt="1480843716123" redirect="false"/>
-    <file name="article-2.html" crc="4006103748" mt="1480843716124" redirect="false"/>
-    <file name="article-3.html" crc="4276192392" mt="1480843716124" redirect="false"/>
-    <file name="article-4.html" crc="3819955631" mt="1480843716125" redirect="false"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_b-master.css" crc="3837237122" ref="phone>article-1:phone>article-3:phone>article-4:phone>article-2"/>
-      <file name="article-1.css" crc="461961899" ref="phone>article-1"/>
-      <file name="article-3.css" crc="363134912" ref="phone>article-3"/>
-      <file name="articles.css" crc="4037502198" ref="phone>articles"/>
-      <file name="index.css" crc="176491355" ref="phone>index"/>
-      <file name="article-4.css" crc="4012084900" ref="phone>article-4"/>
-      <file name="article-2.css" crc="445416941" ref="phone>article-2"/>
-    </folder>
-    <file name="index.html" crc="279970674" mt="1480844763153" redirect="true"/>
-    <file name="articles.html" crc="4211893142" mt="1480846208746" redirect="true"/>
-    <file name="article-1.html" crc="101042994" mt="1480845850882" redirect="true"/>
-    <file name="article-2.html" crc="296568384" mt="1480846001473" redirect="true"/>
-    <file name="article-3.html" crc="193798841" mt="1480846208748" redirect="true"/>
-    <file name="article-4.html" crc="460948894" mt="1480846189844" redirect="true"/>
-  </folder>
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480880447506">
   <folder name="css">
     <file name="site_global.css" crc="426707417"/>
-    <file name="master_b-master.css" crc="86501127" ref="article-1:article-2:article-3:article-4"/>
-    <file name="articles.css" crc="4234643515" ref="articles"/>
-    <file name="index.css" crc="3833991447" ref="index"/>
+    <file name="master_b-master.css" crc="86501127" ref="article-1:article-4:article-3:article-2"/>
     <file name="article-1.css" crc="4069259905" ref="article-1"/>
-    <file name="article-2.css" crc="3984206586" ref="article-2"/>
-    <file name="article-3.css" crc="4116413263" ref="article-3"/>
+    <file name="index.css" crc="3833991447" ref="index"/>
+    <file name="articles.css" crc="4234643515" ref="articles"/>
     <file name="article-4.css" crc="4240870481" ref="article-4"/>
+    <file name="article-3.css" crc="4116413263" ref="article-3"/>
+    <file name="article-2.css" crc="3984206586" ref="article-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:articles:article-1:article-2:article-3:article-4:phone>index:phone>articles:phone>article-1:phone>article-2:phone>article-3:phone>article-4:tablet>index:tablet>articles:tablet>article-1:tablet>article-2:tablet>article-3:tablet>article-4"/>
-    <file name="museutils.js" crc="4136605575" ref="index:articles:article-1:article-2:article-3:article-4:phone>index:phone>articles:phone>article-1:phone>article-2:phone>article-3:phone>article-4:tablet>index:tablet>articles:tablet>article-1:tablet>article-2:tablet>article-3:tablet>article-4"/>
-    <file name="webpro.js" crc="420478120" ref="index:articles:article-1:article-2:article-3:article-4:phone>index:phone>articles"/>
-    <file name="musewpslideshow.js" crc="480958572" ref="index:articles:article-1:article-2:article-3:article-4:phone>index:phone>articles"/>
-    <file name="jquery.museoverlay.js" crc="184401257" ref="index:articles:article-1:article-2:article-3:article-4:phone>index:phone>articles"/>
-    <file name="touchswipe.js" crc="60020316" ref="index:articles:article-1:article-2:article-3:article-4:phone>index:phone>articles"/>
-    <file name="pie.js" crc="3827607177" ref="index:article-1:article-2:article-3:article-4:phone>index:phone>articles:phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
-    <file name="jquery.watch.js" crc="172956391" ref="index:articles:article-1:article-2:article-3:article-4:phone>index:phone>articles:phone>article-1:phone>article-2:phone>article-3:phone>article-4:tablet>index:tablet>articles:tablet>article-1:tablet>article-2:tablet>article-3:tablet>article-4"/>
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="phone>index:phone>articles:phone>article-1:phone>article-2:phone>article-3:phone>article-4:tablet>index:tablet>articles:tablet>article-1:tablet>article-2:tablet>article-3:tablet>article-4:index:articles:article-1:article-2:article-3:article-4"/>
+    <file name="museutils.js" crc="4136605575" ref="phone>index:phone>articles:phone>article-1:phone>article-2:phone>article-3:phone>article-4:tablet>index:tablet>articles:tablet>article-1:tablet>article-2:tablet>article-3:tablet>article-4:index:articles:article-1:article-2:article-3:article-4"/>
+    <file name="webpro.js" crc="420478120" ref="phone>index:phone>articles:index:articles:article-1:article-2:article-3:article-4"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="phone>index:phone>articles:index:articles:article-1:article-2:article-3:article-4"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="phone>index:phone>articles:index:articles:article-1:article-2:article-3:article-4"/>
+    <file name="touchswipe.js" crc="60020316" ref="phone>index:phone>articles:index:articles:article-1:article-2:article-3:article-4"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>articles:phone>article-1:phone>article-2:phone>article-3:phone>article-4:index:article-1:article-2:article-3:article-4"/>
+    <file name="jquery.watch.js" crc="172956391" ref="phone>index:phone>articles:phone>article-1:phone>article-2:phone>article-3:phone>article-4:tablet>index:tablet>articles:tablet>article-1:tablet>article-2:tablet>article-3:tablet>article-4:index:articles:article-1:article-2:article-3:article-4"/>
     <file name="museredirect.js" crc="305212102" ref="index:articles:article-1:article-2:article-3:article-4"/>
   </folder>
   <folder name="images">
-    <file name="portland_panorama3.jpg" crc="487834766" ref="index:phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:phone>index:phone>articles"/>
-    <file name="portland_pic.jpg" crc="4275448955" ref="index:phone>index"/>
-    <file name="portland-rock-lighthouse-sea-sun-dawn.jpg" crc="3776949831" ref="index:phone>index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
-    <file name="merhivaluationgroup.png" crc="3943672028" ref="index:phone>index"/>
+    <file name="portland_pic.jpg" crc="4275448955" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>articles:index"/>
+    <file name="portland-rock-lighthouse-sea-sun-dawn.jpg" crc="3776949831" ref="phone>index:index"/>
+    <file name="portland_panorama3.jpg" crc="487834766" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="merhivaluationgroup.png" crc="3943672028" ref="phone>index:index"/>
+    <file name="u1076-4.png" crc="3793434718" ref="phone>index"/>
+    <file name="u1083-4.png" crc="12335813" ref="phone>index"/>
+    <file name="50-percent-300x300.png" crc="4123621274" ref="phone>index:index"/>
+    <file name="u1074-4.png" crc="517678926" ref="phone>index"/>
+    <file name="u1075-4.png" crc="3915001007" ref="phone>index"/>
+    <file name="85percent.png" crc="213178165" ref="phone>index:index"/>
+    <file name="u1109-4.png" crc="66877296" ref="phone>index"/>
+    <file name="u1111-4.png" crc="4285459441" ref="phone>index"/>
+    <file name="u1084-4.png" crc="3847777539" ref="phone>index"/>
+    <file name="u1072-5.png" crc="3981893783" ref="phone>index"/>
+    <file name="u1080-4.png" crc="471936830" ref="phone>index"/>
+    <file name="u1087-4.png" crc="327394097" ref="phone>index"/>
+    <file name="u1077-6.png" crc="3914772528" ref="phone>index"/>
+    <file name="demodaren vs musk.jpg" crc="339833808" ref="phone>articles:phone>article-1:article-1"/>
+    <file name="professor-aswath-damodaran380x204.jpg" crc="316128180" ref="phone>articles"/>
+    <file name="tesla-motors-logo185x268.jpg" crc="97133759" ref="phone>articles"/>
+    <file name="snapchat1381x200.jpg" crc="125351662" ref="phone>articles"/>
+    <file name="u1253.png" crc="108827024" ref="phone>articles"/>
+    <file name="u1253-a.png" crc="18557176" ref="phone>articles"/>
+    <file name="standalonemerhivaluationgroup.png" crc="176247306" ref="phone>articles:articles"/>
+    <file name="123296x155.png" crc="4251007180" ref="phone>article-1"/>
+    <file name="u1257-4.png" crc="377345790" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
+    <file name="u1259-4.png" crc="4055161999" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
+    <file name="social-linkedin-outline.png" crc="3957275202" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4:article-1:article-2:article-3:article-4"/>
+    <file name="black_instagram_iconsvg.png" crc="324721888" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4:article-1:article-2:article-3:article-4"/>
+    <file name="tesla-motors-logo.jpg" crc="4242792945" ref="phone>article-3:article-3"/>
+    <file name="snapchat1380x200.jpg" crc="125351662" ref="phone>article-4"/>
     <file name="u210-4.png" crc="3942166025" ref="index"/>
     <file name="u211-4.png" crc="4106781367" ref="index"/>
     <file name="u90-4.png" crc="3793434718" ref="index"/>
     <file name="u92-4.png" crc="12335813" ref="index"/>
-    <file name="50-percent-300x300.png" crc="4123621274" ref="index:phone>index"/>
-    <file name="85percent.png" crc="213178165" ref="index:phone>index"/>
     <file name="u561-4.png" crc="4040558834" ref="index"/>
     <file name="u560-4.png" crc="3915001007" ref="index"/>
     <file name="u564-4.png" crc="3847777539" ref="index"/>
@@ -77,36 +69,44 @@
     <file name="tesla-motors-logo208x301.jpg" crc="3878361165" ref="articles"/>
     <file name="professor-aswath-damodaran391x209.jpg" crc="3955004174" ref="articles"/>
     <file name="snapchat1397x208.jpg" crc="192697759" ref="articles"/>
-    <file name="standalonemerhivaluationgroup.png" crc="176247306" ref="articles:phone>articles"/>
     <file name="u829-4.png" crc="4029715798" ref="article-1:article-2:article-3:article-4"/>
     <file name="u841-4.png" crc="3942166025" ref="article-1:article-2:article-3:article-4"/>
-    <file name="black_instagram_iconsvg.png" crc="324721888" ref="article-1:article-2:article-3:article-4:phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
     <file name="123.png" crc="271249177" ref="article-1:article-2:article-3:article-4"/>
-    <file name="social-linkedin-outline.png" crc="3957275202" ref="article-1:article-2:article-3:article-4:phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
-    <file name="demodaren vs musk.jpg" crc="339833808" ref="article-1:phone>articles:phone>article-1"/>
     <file name="professor-aswath-damodaran.jpg" crc="4188531361" ref="article-2"/>
-    <file name="tesla-motors-logo.jpg" crc="4242792945" ref="article-3:phone>article-3"/>
     <file name="snapchat1.jpg" crc="4046168737" ref="article-4"/>
-    <file name="u1076-4.png" crc="3793434718" ref="phone>index"/>
-    <file name="u1083-4.png" crc="12335813" ref="phone>index"/>
-    <file name="u1074-4.png" crc="517678926" ref="phone>index"/>
-    <file name="u1075-4.png" crc="3915001007" ref="phone>index"/>
-    <file name="u1109-4.png" crc="66877296" ref="phone>index"/>
-    <file name="u1111-4.png" crc="4285459441" ref="phone>index"/>
-    <file name="u1084-4.png" crc="3847777539" ref="phone>index"/>
-    <file name="u1072-5.png" crc="3981893783" ref="phone>index"/>
-    <file name="u1080-4.png" crc="471936830" ref="phone>index"/>
-    <file name="u1087-4.png" crc="327394097" ref="phone>index"/>
-    <file name="u1077-6.png" crc="3914772528" ref="phone>index"/>
-    <file name="professor-aswath-damodaran380x204.jpg" crc="316128180" ref="phone>articles"/>
-    <file name="tesla-motors-logo185x268.jpg" crc="97133759" ref="phone>articles"/>
-    <file name="snapchat1381x200.jpg" crc="125351662" ref="phone>articles"/>
-    <file name="u1253.png" crc="108827024" ref="phone>articles"/>
-    <file name="u1253-a.png" crc="18557176" ref="phone>articles"/>
-    <file name="123296x155.png" crc="4251007180" ref="phone>article-1"/>
-    <file name="u1257-4.png" crc="377345790" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
-    <file name="u1259-4.png" crc="4055161999" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
-    <file name="snapchat1380x200.jpg" crc="125351662" ref="phone>article-4"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="article-1.css" crc="3964970448" ref="tablet>article-1"/>
+      <file name="articles.css" crc="3964970448" ref="tablet>articles"/>
+      <file name="index.css" crc="3964970448" ref="tablet>index"/>
+      <file name="article-4.css" crc="3964970448" ref="tablet>article-4"/>
+      <file name="article-2.css" crc="3964970448" ref="tablet>article-2"/>
+      <file name="article-3.css" crc="3964970448" ref="tablet>article-3"/>
+    </folder>
+    <file name="index.html" crc="283158078" mt="1480843716121" redirect="false"/>
+    <file name="articles.html" crc="276175280" mt="1480843716122" redirect="false"/>
+    <file name="article-1.html" crc="96673361" mt="1480843716123" redirect="false"/>
+    <file name="article-2.html" crc="4006103748" mt="1480843716124" redirect="false"/>
+    <file name="article-3.html" crc="4276192392" mt="1480843716124" redirect="false"/>
+    <file name="article-4.html" crc="3819955631" mt="1480843716125" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_b-master.css" crc="3837237122" ref="phone>article-4:phone>article-3:phone>article-2:phone>article-1"/>
+      <file name="article-4.css" crc="4012084900" ref="phone>article-4"/>
+      <file name="articles.css" crc="4037502198" ref="phone>articles"/>
+      <file name="index.css" crc="3802098638" ref="phone>index"/>
+      <file name="article-3.css" crc="363134912" ref="phone>article-3"/>
+      <file name="article-2.css" crc="445416941" ref="phone>article-2"/>
+      <file name="article-1.css" crc="461961899" ref="phone>article-1"/>
+    </folder>
+    <file name="index.html" crc="51674803" mt="1480880314931" redirect="true"/>
+    <file name="articles.html" crc="4211893142" mt="1480846208746" redirect="true"/>
+    <file name="article-1.html" crc="101042994" mt="1480845850882" redirect="true"/>
+    <file name="article-2.html" crc="296568384" mt="1480846001473" redirect="true"/>
+    <file name="article-3.html" crc="193798841" mt="1480846208748" redirect="true"/>
+    <file name="article-4.html" crc="460948894" mt="1480846189844" redirect="true"/>
   </folder>
   <file name="index.html" crc="4174073865" mt="1480843715882" redirect="true"/>
   <file name="articles.html" crc="434810088" mt="1480846208740" redirect="true"/>
