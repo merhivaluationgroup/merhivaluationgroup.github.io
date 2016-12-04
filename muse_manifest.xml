@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480884722794">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480884852839">
   <folder name="css">
     <file name="site_global.css" crc="426707417"/>
     <file name="master_b-master.css" crc="86501127" ref="article-1:article-4:article-3:article-2"/>
@@ -74,8 +74,8 @@
     <file name="professor-aswath-damodaran.jpg" crc="4188531361" ref="article-2"/>
     <file name="snapchat1.jpg" crc="4046168737" ref="article-4"/>
     <file name="portland_pic438x192.jpg" crc="4043207759" ref="phone>index"/>
-    <file name="portland-rock-lighthouse-sea-sun-dawn365x229.jpg" crc="4090556029" ref="phone>index"/>
-    <file name="portland_panorama3-crop-u1184.jpg" crc="515226053" ref="phone>index"/>
+    <file name="portland_panorama3-crop-u1184.jpg" crc="4138607502" ref="phone>index"/>
+    <file name="portland-rock-lighthouse-sea-sun-dawn-crop-u1172.jpg" crc="4088807950" ref="phone>index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -98,12 +98,12 @@
       <file name="master_b-master.css" crc="71831199" ref="phone>article-4:phone>article-3:phone>article-2:phone>article-1"/>
       <file name="article-4.css" crc="4170209362" ref="phone>article-4"/>
       <file name="articles.css" crc="458210139" ref="phone>articles"/>
-      <file name="index.css" crc="373871877" ref="phone>index"/>
+      <file name="index.css" crc="507361625" ref="phone>index"/>
       <file name="article-3.css" crc="4229938560" ref="phone>article-3"/>
       <file name="article-2.css" crc="528478757" ref="phone>article-2"/>
       <file name="article-1.css" crc="92823381" ref="phone>article-1"/>
     </folder>
-    <file name="index.html" crc="3868020034" mt="1480884710802" redirect="true"/>
+    <file name="index.html" crc="445095031" mt="1480884843833" redirect="true"/>
     <file name="articles.html" crc="57718753" mt="1480884229992" redirect="true"/>
     <file name="article-1.html" crc="4141399513" mt="1480883138987" redirect="true"/>
     <file name="article-2.html" crc="92661276" mt="1480883138988" redirect="true"/>
