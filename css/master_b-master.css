@@ -1,0 +1,112 @@
+#u819
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u819.PamphletThumbSelected,#u819:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u826
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u827
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu828
+{
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	position: relative;
+}
+
+#buttonu840
+{
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	position: relative;
+}
+
+#pbuttonu828:hover #buttonu828,#pbuttonu840:hover #buttonu840
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	-pie-background: none;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	position: relative;
+}
+
+#u829-4,#u841-4
+{
+	display: block;
+	vertical-align: top;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u915
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#pamphletu817,#u818,#pbuttonu828 #u829-4,#pbuttonu828:hover #u829-4,#pbuttonu840 #u841-4,#pbuttonu840:hover #u841-4,#u915_align_to_page
+{
+	position: relative;
+}
+
+#u838,#u909,#u830,#u842-6
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u842
+{
+	font-size: 1px;
+	line-height: 0px;
+}
+
+#u844-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+

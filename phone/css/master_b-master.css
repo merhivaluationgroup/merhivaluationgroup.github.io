@@ -1,0 +1,73 @@
+#buttonu1256
+{
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	position: relative;
+}
+
+#buttonu1258
+{
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	position: relative;
+}
+
+#pbuttonu1256:hover #buttonu1256,#pbuttonu1258:hover #buttonu1258
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	-pie-background: none;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	position: relative;
+}
+
+#u1257-4,#u1259-4
+{
+	display: block;
+	vertical-align: top;
+}
+
+#pbuttonu1256 #u1257-4,#pbuttonu1256:hover #u1257-4,#pbuttonu1258 #u1259-4,#pbuttonu1258:hover #u1259-4
+{
+	position: relative;
+}
+
+#u1241,#u1239,#u1235
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1274
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u1275-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
