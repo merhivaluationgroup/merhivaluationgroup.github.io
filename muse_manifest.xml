@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480881272967">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480883140931">
   <folder name="css">
     <file name="site_global.css" crc="426707417"/>
     <file name="master_b-master.css" crc="86501127" ref="article-1:article-4:article-3:article-2"/>
@@ -36,18 +36,17 @@
     <file name="u1109-4.png" crc="66877296" ref="phone>index"/>
     <file name="u1111-4.png" crc="4285459441" ref="phone>index"/>
     <file name="u1084-4.png" crc="3847777539" ref="phone>index"/>
-    <file name="u1072-5.png" crc="3981893783" ref="phone>index"/>
-    <file name="u1080-4.png" crc="471936830" ref="phone>index"/>
-    <file name="u1087-4.png" crc="327394097" ref="phone>index"/>
-    <file name="u1077-6.png" crc="3914772528" ref="phone>index"/>
+    <file name="u1072-5.png" crc="22311437" ref="phone>index"/>
+    <file name="u1080-4.png" crc="312350594" ref="phone>index"/>
+    <file name="u1087-4.png" crc="399930993" ref="phone>index"/>
+    <file name="u1077-6.png" crc="122257322" ref="phone>index"/>
     <file name="demodaren vs musk.jpg" crc="339833808" ref="phone>articles:phone>article-1:article-1"/>
     <file name="professor-aswath-damodaran380x204.jpg" crc="316128180" ref="phone>articles"/>
     <file name="tesla-motors-logo185x268.jpg" crc="97133759" ref="phone>articles"/>
     <file name="snapchat1381x200.jpg" crc="125351662" ref="phone>articles"/>
-    <file name="u1253.png" crc="108827024" ref="phone>articles"/>
+    <file name="u1253.png" crc="18557176" ref="phone>articles"/>
     <file name="u1253-a.png" crc="18557176" ref="phone>articles"/>
     <file name="standalonemerhivaluationgroup.png" crc="176247306" ref="phone>articles:articles"/>
-    <file name="123296x155.png" crc="4251007180" ref="phone>article-1"/>
     <file name="u1257-4.png" crc="377345790" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
     <file name="u1259-4.png" crc="4055161999" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
     <file name="social-linkedin-outline.png" crc="3957275202" ref="phone>article-1:phone>article-2:phone>article-3:phone>article-4:article-1:article-2:article-3:article-4"/>
@@ -71,7 +70,7 @@
     <file name="snapchat1397x208.jpg" crc="192697759" ref="articles"/>
     <file name="u829-4.png" crc="4029715798" ref="article-1:article-2:article-3:article-4"/>
     <file name="u841-4.png" crc="3942166025" ref="article-1:article-2:article-3:article-4"/>
-    <file name="123.png" crc="271249177" ref="article-1:article-2:article-3:article-4"/>
+    <file name="123.png" crc="17104871" ref="article-1:article-2:article-3:article-4:phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
     <file name="professor-aswath-damodaran.jpg" crc="4188531361" ref="article-2"/>
     <file name="snapchat1.jpg" crc="4046168737" ref="article-4"/>
   </folder>
@@ -93,20 +92,20 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_b-master.css" crc="3837237122" ref="phone>article-4:phone>article-3:phone>article-2:phone>article-1"/>
-      <file name="article-4.css" crc="4012084900" ref="phone>article-4"/>
-      <file name="articles.css" crc="4037502198" ref="phone>articles"/>
-      <file name="index.css" crc="475712885" ref="phone>index"/>
-      <file name="article-3.css" crc="363134912" ref="phone>article-3"/>
-      <file name="article-2.css" crc="445416941" ref="phone>article-2"/>
-      <file name="article-1.css" crc="461961899" ref="phone>article-1"/>
+      <file name="master_b-master.css" crc="71831199" ref="phone>article-4:phone>article-3:phone>article-2:phone>article-1"/>
+      <file name="article-4.css" crc="4170209362" ref="phone>article-4"/>
+      <file name="articles.css" crc="340294216" ref="phone>articles"/>
+      <file name="index.css" crc="482176171" ref="phone>index"/>
+      <file name="article-3.css" crc="4229938560" ref="phone>article-3"/>
+      <file name="article-2.css" crc="528478757" ref="phone>article-2"/>
+      <file name="article-1.css" crc="92823381" ref="phone>article-1"/>
     </folder>
-    <file name="index.html" crc="3881713907" mt="1480881247659" redirect="true"/>
-    <file name="articles.html" crc="4211893142" mt="1480846208746" redirect="true"/>
-    <file name="article-1.html" crc="101042994" mt="1480845850882" redirect="true"/>
-    <file name="article-2.html" crc="296568384" mt="1480846001473" redirect="true"/>
-    <file name="article-3.html" crc="193798841" mt="1480846208748" redirect="true"/>
-    <file name="article-4.html" crc="460948894" mt="1480846189844" redirect="true"/>
+    <file name="index.html" crc="366540731" mt="1480882597102" redirect="true"/>
+    <file name="articles.html" crc="57718753" mt="1480882747130" redirect="true"/>
+    <file name="article-1.html" crc="4141399513" mt="1480883138987" redirect="true"/>
+    <file name="article-2.html" crc="92661276" mt="1480883138988" redirect="true"/>
+    <file name="article-3.html" crc="267521148" mt="1480883138989" redirect="true"/>
+    <file name="article-4.html" crc="3889104474" mt="1480883138990" redirect="true"/>
   </folder>
   <file name="index.html" crc="4174073865" mt="1480843715882" redirect="true"/>
   <file name="articles.html" crc="434810088" mt="1480846208740" redirect="true"/>

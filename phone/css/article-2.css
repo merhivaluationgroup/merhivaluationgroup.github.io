@@ -1,7 +1,7 @@
 .version.article_2 /* version checker */
 {
-	color: #00001A;
-	background-color: #8C85ED;
+	color: #00001F;
+	background-color: #7FF225;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.6321969696969px;
+	min-height: 569.5999999999999px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -48,30 +48,29 @@
 
 #page_position_content
 {
-	margin-top: -36px;
 	margin-bottom: -1px;
+	padding-top: 8px;
 }
 
-#pu1241
+#pu1298
 {
 	width: 0.01px;
-	margin-left: 20px;
 }
 
-#u1241
+#u1298
 {
-	z-index: 7;
-	width: 295px;
+	z-index: 2;
+	width: 289px;
 	margin-right: -10000px;
-	left: 34px;
+	left: 45px;
 }
 
 #pbuttonu1256
 {
 	width: 0.01px;
-	margin-bottom: -1px;
 	margin-right: -10000px;
-	margin-top: 137px;
+	margin-top: 93px;
+	margin-left: 20px;
 }
 
 #buttonu1256
@@ -116,7 +115,8 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 92px;
+	margin-top: 48px;
+	margin-left: 20px;
 }
 
 #buttonu1258
@@ -162,8 +162,8 @@
 	z-index: 23;
 	width: 56px;
 	margin-right: -10000px;
-	margin-top: 100px;
-	left: 227px;
+	margin-top: 56px;
+	left: 247px;
 }
 
 #u1235
@@ -171,8 +171,8 @@
 	z-index: 25;
 	width: 42px;
 	margin-right: -10000px;
-	margin-top: 107px;
-	left: 301px;
+	margin-top: 63px;
+	left: 321px;
 }
 
 #u1276
@@ -180,8 +180,9 @@
 	z-index: 27;
 	width: 380px;
 	background-color: transparent;
-	margin-top: 10px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 138px;
 }
 
 #u1279-4
@@ -229,7 +230,7 @@
 #u1280-6
 {
 	z-index: 37;
-	width: 456px;
+	width: 370px;
 	min-height: 118px;
 	background-color: transparent;
 	margin-left: 10px;
@@ -267,13 +268,13 @@
 
 #u1274
 {
-	z-index: 2;
+	z-index: 4;
 	padding-bottom: 21px;
 }
 
 #u1275-4
 {
-	z-index: 3;
+	z-index: 5;
 	width: 416px;
 	min-height: 29px;
 	margin-right: -10000px;
@@ -283,7 +284,7 @@
 
 #u1274-bw
 {
-	z-index: 2;
+	z-index: 4;
 	height: 51px;
 }
 
