@@ -1,7 +1,7 @@
 .version.articles /* version checker */
 {
-	color: #000014;
-	background-color: #487A48;
+	color: #00001B;
+	background-color: #4FBB5B;
 }
 
 @-ms-viewport
@@ -213,8 +213,8 @@
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 12px;
-	left: 8px;
+	margin-top: 16px;
+	left: 16px;
 }
 
 #pbuttonu1252
