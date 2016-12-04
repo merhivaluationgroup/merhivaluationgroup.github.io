@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480885091381">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1480885452711">
   <folder name="css">
     <file name="site_global.css" crc="426707417"/>
     <file name="master_b-master.css" crc="86501127" ref="article-1:article-4:article-3:article-2"/>
@@ -21,10 +21,10 @@
     <file name="museredirect.js" crc="305212102" ref="index:articles:article-1:article-2:article-3:article-4"/>
   </folder>
   <folder name="images">
-    <file name="portland_pic.jpg" crc="4275448955" ref="index"/>
+    <file name="portland_pic.jpg" crc="4275448955" ref="index:phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:phone>articles:index"/>
-    <file name="portland-rock-lighthouse-sea-sun-dawn.jpg" crc="3776949831" ref="index"/>
-    <file name="portland_panorama3.jpg" crc="487834766" ref="index"/>
+    <file name="portland-rock-lighthouse-sea-sun-dawn.jpg" crc="3776949831" ref="index:phone>index"/>
+    <file name="portland_panorama3.jpg" crc="487834766" ref="index:phone>index"/>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="merhivaluationgroup.png" crc="3943672028" ref="phone>index:index"/>
     <file name="u1076-4.png" crc="3793434718" ref="phone>index"/>
@@ -73,9 +73,6 @@
     <file name="123.png" crc="17104871" ref="article-1:article-2:article-3:article-4:phone>article-1:phone>article-2:phone>article-3:phone>article-4"/>
     <file name="professor-aswath-damodaran.jpg" crc="4188531361" ref="article-2"/>
     <file name="snapchat1.jpg" crc="4046168737" ref="article-4"/>
-    <file name="portland-rock-lighthouse-sea-sun-dawn-crop-u1172.jpg" crc="4107206826" ref="phone>index"/>
-    <file name="portland_pic-crop-u1136.jpg" crc="4225517746" ref="phone>index"/>
-    <file name="portland_panorama3598x220.jpg" crc="3946814493" ref="phone>index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -98,12 +95,12 @@
       <file name="master_b-master.css" crc="71831199" ref="phone>article-4:phone>article-3:phone>article-2:phone>article-1"/>
       <file name="article-4.css" crc="4170209362" ref="phone>article-4"/>
       <file name="articles.css" crc="458210139" ref="phone>articles"/>
-      <file name="index.css" crc="164453102" ref="phone>index"/>
+      <file name="index.css" crc="404094789" ref="phone>index"/>
       <file name="article-3.css" crc="4229938560" ref="phone>article-3"/>
       <file name="article-2.css" crc="528478757" ref="phone>article-2"/>
       <file name="article-1.css" crc="92823381" ref="phone>article-1"/>
     </folder>
-    <file name="index.html" crc="4235592950" mt="1480885073194" redirect="true"/>
+    <file name="index.html" crc="4079283752" mt="1480885439986" redirect="true"/>
     <file name="articles.html" crc="57718753" mt="1480884229992" redirect="true"/>
     <file name="article-1.html" crc="4141399513" mt="1480883138987" redirect="true"/>
     <file name="article-2.html" crc="92661276" mt="1480883138988" redirect="true"/>
